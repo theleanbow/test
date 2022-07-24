@@ -11,3 +11,7 @@ this is h2
 ##### h5
 ###### h6
 normal text 
+**bold**
+*italic*
+***bold and italic***
+~~strikethrough~~
